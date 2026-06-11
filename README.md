@@ -2,17 +2,17 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=9D4EDD&style=for-the-badge" alt="rieza-ix" />
 <br clear="both" />
 
-# 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me
 
 Full-Stack Developer at **Enfinity Limited** with 2 years of experience building modern web applications. My primary stack is **React**, **Tailwind CSS**, **Vite**, **Python**, and **PostgreSQL** — and I also have solid background in **Vue 3**, **C#**, **Bootstrap 5**, and **MSSQL**.
 
-# 📩 Contact Me
+## 📩 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizmarezlo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riezxcvii/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rmjb.vercel.app)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 **Languages**
 
