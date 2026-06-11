@@ -1,15 +1,6 @@
-<table border="0" width="100%">
-  <tr>
-    <td>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9D4EDD&vCenter=true&width=500&lines=Hello+world%2C+I'm+Rieza+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;Full+Stack+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-      </a>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=9D4EDD&style=for-the-badge" alt="rieza-ix" />
-    </td>
-  </tr>
-</table>
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9D4EDD&vCenter=true&width=500&lines=Hello+world%2C+I'm+Rieza+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;Full+Stack+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+<img align="right" src="https://komarev.com/ghpvc/?username=rieza-ix&label=profile_visits&color=9D4EDD&style=for-the-badge" alt="rieza-ix" />
+<br clear="both" />
 
 # 👩🏻‍💻 About Me
 
