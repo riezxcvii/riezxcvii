@@ -46,7 +46,7 @@ Full-Stack Developer at **Enfinity Limited** with 2 years of experience building
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=riezxcvii&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&card_width=800)<br/>
 ![](https://streak-stats.demolab.com/?user=riezxcvii&theme=midnight-purple&hide_border=false&card_width=800)<br/>
